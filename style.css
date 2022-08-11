@@ -51,6 +51,13 @@
   section {
     margin-bottom: 24px;
   }
+
+  section .duvida {
+    font-size: 16px;
+    line-height: 20px;
+    color: rgba(0, 0, 0, 0.7);
+    text-align: center;
+  }
   
   section h2 {
     background-color: #FED7AA;
